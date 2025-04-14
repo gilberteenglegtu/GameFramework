@@ -4,11 +4,7 @@
 - **简体中文** - [https://gameframework.cn/](https://gameframework.cn/)
   - **QQ 讨论群** 216332935
 
----
-
 ![Game Framework](https://gameframework.cn/image/gameframework.png)
-
----
 
 ## Game Framework 简介
 
